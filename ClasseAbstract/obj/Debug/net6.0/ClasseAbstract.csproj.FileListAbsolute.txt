@@ -1,0 +1,15 @@
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula5\ClasseAbstract\bin\Debug\net6.0\ClasseAbstract.exe
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula5\ClasseAbstract\bin\Debug\net6.0\ClasseAbstract.deps.json
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula5\ClasseAbstract\bin\Debug\net6.0\ClasseAbstract.runtimeconfig.json
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula5\ClasseAbstract\bin\Debug\net6.0\ClasseAbstract.dll
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula5\ClasseAbstract\bin\Debug\net6.0\ClasseAbstract.pdb
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula5\ClasseAbstract\obj\Debug\net6.0\ClasseAbstract.csproj.AssemblyReference.cache
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula5\ClasseAbstract\obj\Debug\net6.0\ClasseAbstract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula5\ClasseAbstract\obj\Debug\net6.0\ClasseAbstract.AssemblyInfoInputs.cache
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula5\ClasseAbstract\obj\Debug\net6.0\ClasseAbstract.AssemblyInfo.cs
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula5\ClasseAbstract\obj\Debug\net6.0\ClasseAbstract.csproj.CoreCompileInputs.cache
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula5\ClasseAbstract\obj\Debug\net6.0\ClasseAbstract.dll
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula5\ClasseAbstract\obj\Debug\net6.0\refint\ClasseAbstract.dll
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula5\ClasseAbstract\obj\Debug\net6.0\ClasseAbstract.pdb
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula5\ClasseAbstract\obj\Debug\net6.0\ClasseAbstract.genruntimeconfig.cache
+C:\Users\GUILHERME\Desktop\CURSO C#\Aula5\ClasseAbstract\obj\Debug\net6.0\ref\ClasseAbstract.dll
